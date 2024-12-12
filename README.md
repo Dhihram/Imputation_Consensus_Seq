@@ -1,8 +1,8 @@
 # Treating Ambiguous Sequences with Consensus Sequence
 
 We usually found the 'n' or 'N' as the ambiguous sequences in multiple alignment sequence. Ambiguous bases often arise due to sequencing errors, low coverage, or contamination, and they can impact downstream analyses like phylogenetics, 
-SNP detection, and variant calling. If the ambiguous positions are due to sequencing errors or low coverage, replacing Ns with consensus-derived bases may be justified, provided the consensus is reliable. This method is an alternative when the `.vcf` 
-file is not available.
+SNP detection, and variant calling. If the ambiguous positions are due to sequencing errors or low coverage, replacing Ns with consensus-derived bases may be justified, provided the consensus is reliable. This method is an alternative when the reference
+sequence is not available.
 
 This method based on study:
 * Sunguk Shin, Joonhong Park, Correction of sequence-dependent ambiguous bases (Ns) from the 454 pyrosequencing system, Nucleic Acids Research, Volume 42, Issue 7, 1 April 2014, Page e51, https://doi.org/10.1093/nar/gku070
