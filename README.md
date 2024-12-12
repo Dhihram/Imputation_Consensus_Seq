@@ -4,6 +4,10 @@ We usually found the 'n' or 'N' as the ambiguous sequences in multiple alignment
 SNP detection, and variant calling. If the ambiguous positions are due to sequencing errors or low coverage, replacing Ns with consensus-derived bases may be justified, provided the consensus is reliable. This method is an alternative when the `.vcf` 
 file is not available.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/pre.png" alt="Pre processing.">
+</p>
+
 
 ## Installing and using EMBOSS 
 
@@ -23,4 +27,8 @@ The code can be check in the folder `code`
 ## Result
 
 The ambiguous sequences are imputed by the consensus sequence
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/post.png" alt="Post processing.">
+</p>
 
