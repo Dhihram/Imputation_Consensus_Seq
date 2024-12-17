@@ -30,13 +30,13 @@ The code can be check in the folder `code`
 
 ## Result
 
-The ambiguous sequences are imputed by the consensus sequence
+The ambiguous sequences are imputed by the consensus sequence with `code.txt`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/post.png" alt="Post processing.">
 </p>
 
-Alternatively, the ambiguous sequences are replaced by missing or '-'
+Alternatively, the ambiguous sequences are replaced by missing or '-' in `code2.txt`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/post2.png">
