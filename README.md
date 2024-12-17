@@ -36,3 +36,9 @@ The ambiguous sequences are imputed by the consensus sequence
   <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/post.png" alt="Post processing.">
 </p>
 
+Alternatively, the ambiguous sequences are replaced by missing or '-'
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhihram/Imputation_Consensus_Seq/refs/heads/main/img/post2.png">
+</p>
+
